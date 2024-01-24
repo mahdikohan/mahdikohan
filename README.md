@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Economics, Complexity and AI
 - 📫 How to reach me kohansefidiMahdi@gmail.com
 - 📃 I'm writing some post in Medium https://medium.com/@kohansefidimahdi
+- 🧠 I test my ml model on kaggle https://www.kaggle.com/mahdikohansefidi
 
 <!---
 mahdikohan/mahdikohan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
