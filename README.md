@@ -1,20 +1,23 @@
-👋 Hi, I’m Mahdi Kohan – @mahdikohan
+Here’s a polished and more professional version of your bio:
 
-👀 I'm fascinated by the intersection of complexity science, economics, and artificial intelligence.
+---
 
-🌱 Currently diving deep into Economics, with a focus on complex systems and data-driven approaches.
+👋 Hi, I’m **Mahdi Kohan** – [@mahdikohan](https://github.com/mahdikohan)
 
-🤝 I’m open to collaborations in Economics, Complexity Science, and AI.
+👀 I'm fascinated by the intersection of **complexity science, economics**, and **artificial intelligence**.
 
-📫 Reach me at: kohansefidimahdi@gmail.com
+🌱 Currently diving deep into **Economics**, with a focus on complex systems and data-driven approaches.
 
-✍️ I share ideas and insights on Medium
+🤝 I’m open to **collaborations** in **Economics, Complexity Science, and AI**.
 
-🧠 Experimenting with machine learning models on Kaggle
+📫 Reach me at: **[kohansefidimahdi@gmail.com](mailto:kohansefidimahdi@gmail.com)**
 
-🌐 Learn more about my work: Portfolio Website
+✍️ I share ideas and insights on **[Medium](https://medium.com/@kohansefidimahdi)**
 
-<!---
-mahdikohan/mahdikohan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧠 Experimenting with machine learning models on **[Kaggle](https://www.kaggle.com/mahdikohansefidi)**
+
+🌐 Learn more about my work: **[Portfolio Website](https://mahdikohan.github.io/mahdikohan/)**
+
+---
+
+Let me know if you'd like a version tailored for LinkedIn, Twitter/X, or any other platform!
