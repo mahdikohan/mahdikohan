@@ -1,6 +1,3 @@
-Here’s a polished and more professional version of your bio:
-
----
 
 👋 Hi, I’m **Mahdi Kohan** – [@mahdikohan](https://github.com/mahdikohan)
 
@@ -17,7 +14,3 @@ Here’s a polished and more professional version of your bio:
 🧠 Experimenting with machine learning models on **[Kaggle](https://www.kaggle.com/mahdikohansefidi)**
 
 🌐 Learn more about my work: **[Portfolio Website](https://mahdikohan.github.io/mahdikohan/)**
-
----
-
-Let me know if you'd like a version tailored for LinkedIn, Twitter/X, or any other platform!
