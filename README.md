@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @mahdikohan
-- 👀 I’m interested in Complexity world in economics and use AI
-- 🌱 I’m currently learning Economics
-- 💞️ I’m looking to collaborate on Economics, Complexity and AI
-- 📫 How to reach me kohansefidiMahdi@gmail.com
-- 📃 I'm writing some post in Medium https://medium.com/@kohansefidimahdi
-- 🧠 I test my ml model on kaggle https://www.kaggle.com/mahdikohansefidi
+👋 Hi, I’m Mahdi Kohan – @mahdikohan
+👀 I'm fascinated by the intersection of complexity science, economics, and artificial intelligence.
+🌱 Currently diving deep into Economics, with a focus on complex systems and data-driven approaches.
+🤝 I’m open to collaborations in Economics, Complexity Science, and AI.
+📫 Reach me at: kohansefidimahdi@gmail.com
+✍️ I share ideas and insights on Medium
+🧠 Experimenting with machine learning models on Kaggle
+🌐 Learn more about my work: Portfolio Website
 
-- https://mahdikohan.github.io/mahdikohan/
 
 <!---
 mahdikohan/mahdikohan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
