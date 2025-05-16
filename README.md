@@ -6,6 +6,8 @@
 - 📃 I'm writing some post in Medium https://medium.com/@kohansefidimahdi
 - 🧠 I test my ml model on kaggle https://www.kaggle.com/mahdikohansefidi
 
+- https://mahdikohan.github.io/mahdikohan/
+
 <!---
 mahdikohan/mahdikohan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
