@@ -3,115 +3,122 @@
 <head>
     <meta charset="UTF-8">
     <title>Mahdi Kohan Sefidi - CV</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(120deg, #e0e7ff 0%, #f4f4f4 100%);
-            margin: 0;
-            padding: 0;
-        }
+<style>
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background: linear-gradient(120deg, #181818 0%, #232323 100%);
+        margin: 0;
+        padding: 0;
+        color: #f6e7b2;
+    }
+    .cv-container {
+        background: #232323;
+        max-width: 700px;
+        margin: 40px auto;
+        padding: 32px 28px 24px 28px;
+        box-shadow: 0 6px 32px rgba(0,0,0,0.30);
+        border-radius: 18px;
+        border: 1px solid #bfa43a;
+    }
+    .header {
+        display: flex;
+        align-items: center;
+        text-align: left;
+        border-bottom: none;
+        padding-bottom: 0;
+        margin-bottom: 18px;
+        gap: 28px;
+    }
+    .header-content {
+        flex: 1;
+    }
+    .header h1 {
+        margin: 10px 0 0 0;
+        font-size: 2.2em;
+        color: #ffd700;
+        letter-spacing: 1px;
+    }
+    .header p {
+        margin: 8px 0 0 0;
+        color: #f6e7b2;
+        font-size: 1.08em;
+    }
+    .profile-pic {
+        width: 130px;
+        height: 130px;
+        border-radius: 50%;
+        border: 3px solid #ffd700;
+        margin-bottom: 0;
+        object-fit: cover;
+        box-shadow: 0 2px 8px rgba(191,164,58,0.15);
+    }
+    .social-links {
+        margin: 12px 0 0 0;
+        display: flex;
+        justify-content: flex-start;
+        gap: 18px;
+    }
+    .social-links a {
+        color: #ffd700;
+        text-decoration: none;
+        font-size: 1.3em;
+        transition: color 0.2s;
+    }
+    .social-links a:hover {
+        color: #f6e7b2;
+    }
+    .section {
+        margin-bottom: 22px;
+    }
+    .section h2 {
+        color: #ffd700;
+        border-bottom: 1px solid #bfa43a;
+        padding-bottom: 4px;
+        margin-bottom: 12px;
+        font-size: 1.15em;
+        letter-spacing: 0.5px;
+    }
+    .section ul {
+        list-style: none;
+        padding: 0;
+    }
+    .section li {
+        margin-bottom: 8px;
+        color: #f6e7b2;
+        font-size: 1em;
+    }
+    .job-title {
+        font-weight: 600;
+        color: #ffd700;
+    }
+    .job-date {
+        float: right;
+        color: #bfa43a;
+        font-size: 0.95em;
+    }
+    .clear {
+        clear: both;
+    }
+    a {
+        color: #ffd700;
+    }
+    a:hover {
+        color: #f6e7b2;
+    }
+    @media (max-width: 600px) {
         .cv-container {
-            background: #fff;
-            max-width: 700px;
-            margin: 40px auto;
-            padding: 32px 28px 24px 28px;
-            box-shadow: 0 6px 32px rgba(0,0,0,0.10);
-            border-radius: 18px;
-            border: 1px solid #e5e7eb;
-        }
-        .header {
-            display: flex;
-            align-items: center;
-            text-align: left;
-            border-bottom: none;
-            padding-bottom: 0;
-            margin-bottom: 18px;
-            gap: 28px;
-        }
-        .header-content {
-            flex: 1;
+            padding: 10px;
         }
         .header h1 {
-            margin: 10px 0 0 0;
-            font-size: 2.2em;
-            color: #1e293b;
-            letter-spacing: 1px;
-        }
-        .header p {
-            margin: 8px 0 0 0;
-            color: #64748b;
-            font-size: 1.08em;
-        }
-        .profile-pic {
-            width: 130px;
-            height: 130px;
-            border-radius: 50%;
-            border: 3px solid #6366f1;
-            margin-bottom: 0;
-            object-fit: cover;
-            box-shadow: 0 2px 8px rgba(99,102,241,0.10);
-        }
-        .social-links {
-            margin: 12px 0 0 0;
-            display: flex;
-            justify-content: flex-start;
-            gap: 18px;
-        }
-        .social-links a {
-            color: #6366f1;
-            text-decoration: none;
             font-size: 1.3em;
-            transition: color 0.2s;
         }
-        .social-links a:hover {
-            color: #1e293b;
-        }
-        .section {
-            margin-bottom: 22px;
-        }
-        .section h2 {
-            color: #6366f1;
-            border-bottom: 1px solid #e0e7ff;
-            padding-bottom: 4px;
-            margin-bottom: 12px;
-            font-size: 1.15em;
-            letter-spacing: 0.5px;
-        }
-        .section ul {
-            list-style: none;
-            padding: 0;
-        }
-        .section li {
-            margin-bottom: 8px;
-            color: #334155;
-            font-size: 1em;
-        }
-        .job-title {
-            font-weight: 600;
-            color: #1e293b;
-        }
-        .job-date {
-            float: right;
-            color: #94a3b8;
-            font-size: 0.95em;
-        }
-        .clear {
-            clear: both;
-        }
-        @media (max-width: 600px) {
-            .cv-container {
-                padding: 10px;
-            }
-            .header h1 {
-                font-size: 1.3em;
-            }
-        }
-    </style>
+    }
+</style>
 </head>
 <body>
     <div class="cv-container">
         <div class="header">
-            <img src="profile_img/white_shirt_serious_very_low_quality.jpg" alt="Profile Photo" class="profile-pic">
+            <img src="https://ui-avatars.com/api/?name=Mahdi+Kohan+Sefidi&background=ececec&color=6366f1&size=130" alt="Profile Photo" class="profile-pic">
             <div class="header-content">
                 <h1>Mahdi Kohan Sefidi</h1>
                 <p>Master of Economics, Khatam University</p>
@@ -136,9 +143,9 @@
             <h2>Papers</h2>
             <ul>
                 <li>Modeling the Dynamics of Financial Market Structures Using Multilayer Networks and Machine Learning <span style="color:#6366f1;font-size:0.95em;">[working]</span> <span class="job-date">2025</span></li>
-                <li><a href="https://arxiv.org/abs/2502.05342" target="_blank" style="color:#334155;text-decoration:underline;">Discounting under inequality and lobbyists disagreement</a> <span class="job-date">2025</span><br><span style="font-size:0.95em;color:#64748b;">M Mousavi, MK Sefidi<br>arXiv preprint arXiv:2502.05342</span></li>
-                <li><a href="https://arxiv.org/abs/2505.10154" target="_blank" style="color:#334155;text-decoration:underline;">The Impact of Node Addition and Deletion on Network Production Fluctuations</a> <span style="color:#6366f1;font-size:0.95em;">[working]</span> <span class="job-date">2024</span></li>
-                <li><a href="https://arxiv.org/abs/2402.11072" target="_blank" style="color:#334155;text-decoration:underline;">Awareness of self-control</a> <span class="job-date">2024</span><br><span style="font-size:0.95em;color:#64748b;">MM Mousavi, MK Sefidi, S Allahyarkhani<br>arXiv preprint arXiv:2402.11072</span></li>
+                <li><a href="https://arxiv.org/abs/2502.05342" target="_blank" style="color:#ffd700;text-decoration:underline;">Discounting under inequality and lobbyists disagreement</a> <span class="job-date">2025</span><br><span style="font-size:0.95em;color:#f6e7b2;">M Mousavi, MK Sefidi<br>arXiv preprint arXiv:2502.05342</span></li>
+                <li><a href="https://arxiv.org/abs/2505.10154" target="_blank" style="color:#ffd700;text-decoration:underline;">The Impact of Node Addition and Deletion on Network Production Fluctuations</a> <span style="color:#6366f1;font-size:0.95em;">[working]</span> <span class="job-date">2024</span></li>
+                <li><a href="https://arxiv.org/abs/2402.11072" target="_blank" style="color:#ffd700;text-decoration:underline;">Awareness of self-control</a> <span class="job-date">2024</span><br><span style="font-size:0.95em;color:#f6e7b2;">MM Mousavi, MK Sefidi, S Allahyarkhani<br>arXiv preprint arXiv:2402.11072</span></li>
             </ul>
         </div>
 
@@ -154,10 +161,10 @@
             <ul>
                 <li>Economic Impact Analysis for National Policy (2022)</li>
                 <li>Data-Driven Poverty Mapping (2020)</li>
-                <li><a href="https://github.com/mahdikohan/complexityEconomics/tree/main/Agent-based%20macroeconomics" target="_blank" style="color:#334155;text-decoration:underline;">Agent-based Macroeconomics</a> &mdash; A simulation framework for studying macroeconomic phenomena using agent-based modeling, focusing on emergent properties and policy analysis.</li>
-                <li><a href="https://github.com/mahdikohan/complexityEconomics/tree/main/El%20Farol%20Bar" target="_blank" style="color:#334155;text-decoration:underline;">El Farol Bar Problem</a> &mdash; An implementation and exploration of the classic El Farol Bar problem, demonstrating bounded rationality and collective behavior in agent-based systems.</li>
-                <li><a href="https://github.com/mahdikohan/complexityEconomics/tree/main/Wealth%20Model" target="_blank" style="color:#334155;text-decoration:underline;">Wealth Model</a> &mdash; A computational model to analyze wealth distribution dynamics and inequality, inspired by statistical physics and complexity economics.</li>
-                <li><a href="https://github.com/mahdikohan" target="_blank" style="color:#334155;text-decoration:underline;">Personal GitHub Portfolio</a> &mdash; A collection of research code, data analysis scripts, and open-source projects in economics and network science.</li>
+                <li><a href="https://github.com/mahdikohan/complexityEconomics/tree/main/Agent-based%20macroeconomics" target="_blank" style="color:#ffd700;text-decoration:underline;">Agent-based Macroeconomics</a> &mdash; A simulation framework for studying macroeconomic phenomena using agent-based modeling, focusing on emergent properties and policy analysis.</li>
+                <li><a href="https://github.com/mahdikohan/complexityEconomics/tree/main/El%20Farol%20Bar" target="_blank" style="color:#ffd700;text-decoration:underline;">El Farol Bar Problem</a> &mdash; An implementation and exploration of the classic El Farol Bar problem, demonstrating bounded rationality and collective behavior in agent-based systems.</li>
+                <li><a href="https://github.com/mahdikohan/complexityEconomics/tree/main/Wealth%20Model" target="_blank" style="color:#ffd700;text-decoration:underline;">Wealth Model</a> &mdash; A computational model to analyze wealth distribution dynamics and inequality, inspired by statistical physics and complexity economics.</li>
+                <li><a href="https://github.com/mahdikohan" target="_blank" style="color:#ffd700;text-decoration:underline;">Personal GitHub Portfolio</a> &mdash; A collection of research code, data analysis scripts, and open-source projects in economics and network science.</li>
             </ul>
         </div>
     </div>
